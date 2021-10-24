@@ -22,4 +22,4 @@ yarn lint
 ```
 
 ### Live on 
-<a href="">Netlify</a>
+<a href="https://creative-cards-generator-vue-composition-api.netlify.app/">Netlify</a>
